@@ -1,4 +1,4 @@
-## Oii! Eu sou o Bruno 
+## Oii! Eu sou o Barão
 
-- 🔭 Hoje trabalho com atendimento ao publico
-- 🌱 Estudando Python,HTML,CSS e Javascript
+- 🔭 Hoje trabalho como Suporte
+- 🌱 Estudando Javascript
